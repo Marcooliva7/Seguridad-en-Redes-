@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 -General Skills/10- Excelente.md",
+                "file": "picoCTF/Examenes/Primer Examen Parcial/1- jaja.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10- Excelente"
+              "title": "1- jaja"
             }
           }
         ],
@@ -218,8 +218,10 @@
   },
   "active": "8cc442353705ac1f",
   "lastOpenFiles": [
-    "picoCTF/Examenes/Segundo Examen Parcial p2/10- rsa_oracle.md",
+    "picoCTF/Examenes/Segundo Examen Parcial p1/1. Lookey here.md",
+    "picoCTF/Examenes/Primer Examen Parcial/1- jaja.md",
     "picoCTF/01 -General Skills/10- Excelente.md",
+    "picoCTF/Examenes/Segundo Examen Parcial p2/10- rsa_oracle.md",
     "picoCTF/Examenes/Segundo Examen Parcial p2/9- Related Messages.md",
     "picoCTF/Examenes/Segundo Examen Parcial p2/8- Small Trouble.md",
     "picoCTF/Examenes/Segundo Examen Parcial p2/7- Timestamped Secrets.md",
@@ -243,8 +245,6 @@
     "picoCTF/Examenes/Segundo Examen Parcial p1/5- Flag in Flame.md",
     "picoCTF/Examenes/Segundo Examen Parcial p1/2-Enhance!.md",
     "picoCTF/Examenes/Segundo Examen Parcial p1/4- Hidden in plainsight.md",
-    "picoCTF/Examenes/Segundo Examen Parcial p1/3- Riddle Registry.md",
-    "picoCTF/Examenes/Segundo Examen Parcial p1/1. Lookey here.md",
     "picoCTF/Examenes/Segundo Examen Parcial p1",
     "picoCTF/Examenes/Primer Examen Parcial",
     "Sin nombre",
