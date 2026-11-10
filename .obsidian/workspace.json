@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Actividad 22 picoCTF Reversing p2/6- Picker IV.md",
+                "file": "picoCTF/Actividad 23/1- asm3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6- Picker IV"
+              "title": "1- asm3"
             }
           }
         ],
@@ -218,12 +218,17 @@
   },
   "active": "8cc442353705ac1f",
   "lastOpenFiles": [
+    "picoCTF/Actividad 23/3- asm1.md",
+    "picoCTF/Actividad 23/1- asm3.md",
+    "picoCTF/Actividad 23/2- asm2.md",
+    "Bienvenido.md",
+    "picoCTF/Actividad 5  -General Skills/Base.md",
+    "picoCTF/Actividad 22 picoCTF Reversing p2/3-Picker I.md",
+    "picoCTF/Actividad 23",
+    "picoCTF/Actividad 22 picoCTF Reversing p2/6- Picker IV.md",
     "picoCTF/Actividad 22 picoCTF Reversing p2/5- Picker III.md",
     "picoCTF/Actividad 22 picoCTF Reversing p2/4- Picker ll.md",
-    "picoCTF/Actividad 22 picoCTF Reversing p2/3-Picker I.md",
     "picoCTF/Actividad 22 picoCTF Reversing p2/2- Timer.md",
-    "picoCTF/Actividad 22 picoCTF Reversing p2/6- Picker IV.md",
-    "picoCTF/Actividad 5  -General Skills/Base.md",
     "picoCTF/Actividad 22 picoCTF Reversing p2/1- afe Opener 2.md",
     "picoCTF/Actividad 5  -General Skills/10- Nice netcat....md",
     "picoCTF/Actividad 22 picoCTF Reversing p2",
@@ -241,10 +246,6 @@
     "picoCTF/Examenes/Segundo Examen Parcial p2/10- rsa_oracle.md",
     "picoCTF/Examenes/Segundo Examen Parcial p2/9- Related Messages.md",
     "picoCTF/Examenes/Segundo Examen Parcial p2/8- Small Trouble.md",
-    "picoCTF/Examenes/Segundo Examen Parcial p2/7- Timestamped Secrets.md",
-    "picoCTF/Examenes/Segundo Examen Parcial p2/6- Custom encryption.md",
-    "picoCTF/Examenes/Segundo Examen Parcial p2/5- transposition-trial.md",
-    "picoCTF/Examenes/Segundo Examen Parcial p2/4- Shared Secrets.md",
     "picoCTF/Examenes/Segundo Examen Parcial p2",
     "picoCTF/Examenes/Segundo Examen Parcial p1",
     "picoCTF/Examenes/Primer Examen Parcial",
